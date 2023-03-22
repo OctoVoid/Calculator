@@ -124,23 +124,71 @@
   <data name="body" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\body.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bracketClose" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\bracketClose.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Dasterisk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dasterisk.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bracketOpen" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\bracketOpen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Dbody" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dbody.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="CE" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\CE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Ddot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Ddot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Deight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Deight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DequalSign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\DequalSign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Derase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Derase.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dfive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dfive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dfour" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dfour.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dminus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dminus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dnine" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dnine.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Done" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Done.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="dot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\dot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dplus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dplus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dseven" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dseven.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dsix" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dsix.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dslash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dslash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dthree" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dthree.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dtwo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dtwo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dzero" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Dzero.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="eight" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\eight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="equalSign" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\equalSign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="erase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\erase.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="five" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\five.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
